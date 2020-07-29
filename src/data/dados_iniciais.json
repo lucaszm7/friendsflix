@@ -22,9 +22,13 @@
           "url": "https://www.youtube.com/watch?v=X59yPeVk_70"
         },
         {
-          "titulo": "SLA",
+          "titulo": "MHA",
           "url": "https://www.youtube.com/watch?v=-77UEct0cZM"
-        }     
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }   
       ]
     },
     {
@@ -32,7 +36,7 @@
       "cor": "#006600",
       "link_extra": {
         "text": "By: Scar-senpai",
-        "url": "https://www.instagram.com/fernandascarn/"
+        "url": ""
       },
       "videos": [
         {
@@ -72,7 +76,7 @@
       "cor": "#990099",
       "link_extra": {
         "text": "By: Gata Gorda",
-        "url": "https://www.instagram.com/biarasia/"
+        "url": ""
       },
       "videos": [
         {
@@ -90,7 +94,7 @@
       "cor": "#a280ff",
       "link_extra": {
         "text": "By: Kageyama",
-        "url": "https://www.instagram.com/nan.pmg/"
+        "url": ""
       },
       "videos": [
         {
