@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "French Crush",
+      "titulo": "NARUTERA BRABA",
       "link": "/",
       "cor": "#3d0099",
       "link_extra": {
@@ -14,16 +14,16 @@
           "url": "https://www.youtube.com/watch?v=YzKM5g_FwYU&feature=youtu.be"
         },
         {
-          "titulo": "Roi",
-          "url": "https://www.youtube.com/watch?v=4NOMFBRfaT0"
+          "titulo": "NARUTO",
+          "url": "https://www.youtube.com/watch?v=mS8sLlavkqE"
         },
         {
-          "titulo": "Amour plastique",
-          "url": "https://www.youtube.com/watch?v=5NjJLFI_oYs"
+          "titulo": "FMA",
+          "url": "https://www.youtube.com/watch?v=X59yPeVk_70"
         },
         {
-          "titulo": "Vérité",
-          "url": "https://www.youtube.com/watch?v=tQ3HWIsZXPM"
+          "titulo": "SLA",
+          "url": "https://www.youtube.com/watch?v=-77UEct0cZM"
         }     
       ]
     },
@@ -47,10 +47,50 @@
     },
     {
       "titulo": "Bileu",
-      "cor": "#9cd33b",
+      "cor": "#4dffff",
       "link_extra": {
         "text": "By: Bileu AKA Comedor de casadas",
         "url": "https://www.instagram.com/johnny.tkd_/"
+      },
+      "videos": [
+        {
+          "titulo": "pagode",
+          "url": "https://www.youtube.com/watch?v=QxamVP2dJCA"
+        },
+        {
+          "titulo": "mais pagade",
+          "url": "https://www.youtube.com/watch?v=b11UbpQzQIs"
+        },
+        {
+          "titulo": "ainda mais pagade",
+          "url": "https://www.youtube.com/watch?v=g_WBbusFes4"
+        }
+      ]
+    },
+    {
+      "titulo": "Bia's Role",
+      "cor": "#990099",
+      "link_extra": {
+        "text": "By: Gata Gorda",
+        "url": "https://www.instagram.com/biarasia/"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Nanda's mind",
+      "cor": "#a280ff",
+      "link_extra": {
+        "text": "By: Kageyama",
+        "url": "https://www.instagram.com/nan.pmg/"
       },
       "videos": [
         {
