@@ -21,7 +21,7 @@ function App() {
       category={dadosIniciais.categorias[0]}
       />
 
-      {/* <Carousel
+      <Carousel
       category={dadosIniciais.categorias[1]}
       />
 
@@ -29,11 +29,11 @@ function App() {
       category={dadosIniciais.categorias[2]}
       />
 
-      <Carousel
+      {/* <Carousel
       category={dadosIniciais.categorias[3]}
-      />
+      /> */}
 
-      <Carousel
+      {/* <Carousel
       category={dadosIniciais.categorias[4]}
       />
 
