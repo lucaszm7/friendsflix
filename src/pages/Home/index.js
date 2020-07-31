@@ -37,9 +37,13 @@ function Home() {
       category={dadosIniciais.categorias[4]}
       />
 
-      {/* <Carousel
+      <Carousel
       category={dadosIniciais.categorias[5]}
-      /> */}
+      />
+
+      <Carousel
+      category={dadosIniciais.categorias[6]}
+      />
 
       <Footer/>
 

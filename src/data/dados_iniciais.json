@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "NARUTERA BRABA",
+      "titulo": "Lukeda' otakus",
       "link": "/",
       "cor": "#3d0099",
       "link_extra": {
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "titulo": "Scar Songs",
+      "titulo": "Scar's Songs",
       "cor": "#006600",
       "link_extra": {
         "text": "By: Scar-senpai",
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "titulo": "Bileu",
+      "titulo": "Bileu's Pagode",
       "cor": "#4dffff",
       "link_extra": {
         "text": "By: Bileu AKA Comedor de casadas",
@@ -94,6 +94,42 @@
       "cor": "#a280ff",
       "link_extra": {
         "text": "By: Kageyama",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Pavani's Lesson",
+      "cor": "#cbdaf2",
+      "link_extra": {
+        "text": "By: God probabily",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Isa's cute songs",
+      "cor": "#5a43d9",
+      "link_extra": {
+        "text": "By: a fan of cute MPB",
         "url": ""
       },
       "videos": [

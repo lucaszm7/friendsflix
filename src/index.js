@@ -7,11 +7,12 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom'
 import Home from './pages/Home';
 import CadastroVideo from './pages/cadastro/Video'
 import CadastroCategoria from './pages/cadastro/Categoria';
+import Pagina404 from './pages/404';
 
 //Teste da Rota
 
 //Desafio master: Botar algo divertido na Pag404
-const Pagina404 = () => (<div>Página 404</div>)
+//const Pagina404 = () => (<div>Página 404</div>)
 
 ReactDOM.render(
   //BrowserRouter: Faz as rotas entre a aplicação (???)
