@@ -16,7 +16,7 @@ const Title = styled.h1`
 `;
 
 function Pagina404() {
-    const nome = "Lucas"
+    //const nome = "Lucas"
     return(
         <>
             <Title>

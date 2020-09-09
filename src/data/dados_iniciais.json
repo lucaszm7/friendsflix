@@ -32,6 +32,24 @@
       ]
     },
     {
+      "titulo": "Pus Corno Chora",
+      "cor": "#aae1e6",
+      "link_extra": {
+        "text": "By: Meu Bem",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
       "titulo": "Scar's Songs",
       "cor": "#006600",
       "link_extra": {
@@ -136,6 +154,24 @@
         {
           "titulo": "",
           "url": ""
+        },
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Camila's Best Person",
+      "cor": "#000000",
+      "link_extra": {
+        "text": "By: Sexo na rave melhor musica",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "SEXO NA RAVE",
+          "url": "https://www.youtube.com/watch?v=iz0ERlivBxc"
         },
         {
           "titulo": "",
